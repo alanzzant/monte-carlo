@@ -32,7 +32,7 @@ const graphCircle = (radius, h, k) => {
   }
 }
 
-const RADIUS = 150.0
+const RADIUS = 200.0
 let totalPoints = 0
 let inCircumferencePoints = 0
 let pi = 0.0

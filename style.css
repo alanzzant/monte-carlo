@@ -5,10 +5,11 @@ body {
 }
 
 #h1 {
+  font-size: 3rem;
   color: #292929;
   position: absolute;
-  left: calc(20vw + 8px);
-  top: 10px;
+  left: calc(50% - 3rem*5);
+  top: 5rem;
 }
 
 #canvas {
