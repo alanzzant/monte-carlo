@@ -1,4 +1,4 @@
-# monte-carlo
+# pi-monte-carlo
 
 The Monte Carlo simulation is a method of determinig the decimals of the Pi number through randomness.
 
